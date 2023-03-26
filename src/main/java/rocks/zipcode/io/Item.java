@@ -10,7 +10,7 @@ public class Item {
     public Item() {
         this.name ="";
         this.id = 0L;
-        this.price = 0.00;
+        this.price = 0.01;
     }
 
     public Item(Long id, String name, Double price) {
