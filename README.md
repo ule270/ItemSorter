@@ -10,7 +10,8 @@
 
 ### Part 2 - Implement `Comparator` interface
 * Implement `Comparator` interface for each class in the package `src.rocks.zipcode.io.comparators`.
-	* Ensure the `Comparator` is [parameterized](https://stackoverflow.com/questions/12551674/what-is-meant-by-parameterized-type) with type `Item`
+	* Ensure the `Comparator` is [parameterized](https://stackoverflow.com/questions/12551674/what-is-meant-by-parameterized-type) 
+    * with type `Item`
 * Write method definitions for each `Comparator`.
 * Ensure 100% success rate of each test class in `test.rocks.zipcode.io.comparators`.
 
